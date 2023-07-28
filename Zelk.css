@@ -1438,7 +1438,6 @@ div[style*="height: 16px;"] + div[style="height: 16px;"] {
 }
 .wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub, .interactiveSelected-29CP8y {
   background-color: var(--background-modifier-selected) !important;
-  color: var(--interactive-selected) !important;
 }
 .childWrapper-1j_1ub {
   color: var(--accent-color);
