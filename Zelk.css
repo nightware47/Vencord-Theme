@@ -1,6 +1,6 @@
 /* Zelk v1.2.2 */
 /* imports */
-@import url('https://rsms.me/inter/inter.css');
+@import url('https://raw.githubusercontent.com/nightware47/Vencord-Theme/main/inter.css');
 /* temp */
 .theme-dark {
   --text-positive: #6ee1b6;
