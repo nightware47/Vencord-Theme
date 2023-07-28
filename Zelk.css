@@ -398,7 +398,6 @@
 :root {
   --settings-logout: var(--button-destructive);
   --settings-guild-delete: var(--button-destructive);
-  --status-danger: var(--button-destructive);
   --status-positive: var(--text-positive);
   --status-positive-background: var(--text-positive);
   --status-positive-text: var(--interactive-selected);
