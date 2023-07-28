@@ -1117,9 +1117,7 @@ svg.slider-32CRPX svg, .bd-switch-slider>svg {
 .header-3OsQeK {
   border-radius: 0 0 var(--border-radius-1) var(--border-radius-1);
 }
-.modeSelected-3DmyhH .name-28HaxV, .modeSelected-3DmyhH .content-1gYQeQ:hover .name-28HaxV, .modeSelected-3DmyhH .actionIcon-2sw4Sl, .selected-1-Z6gm .name-3Vmqxm {
-  color: var(--interactive-selected);
-}
+
 .animatedContainer-2laTjx {
   z-index: 2;
   top: 48px;
@@ -1137,9 +1135,6 @@ div[style*="height: 16px;"] + div[style="height: 16px;"] {
 }
 .modeUnread-3Cxepe>div>a>div>.icon-2W8DHg, .modeUnread-3Cxepe:hover>div>a>div>.icon-2W8DHg {
   color: var(--interactive-active);
-}
-.modeSelected-3DmyhH .icon-2W8DHg {
-  color: var(--interactive-selected);
 }
 .modeUnread-3Cxepe .icon-2W8DHg>path[d^="M5.88657"], .modeUnread-3Cxepe .icon-2W8DHg>path[d^="M14 8C14"] {
   d: path("M8.89 3a.5.5 0 0 0-.5.41L7.77 7H4.18a.5.5 0 0 0-.5.41l-.17 1a.5.5 0 0 0 .5.59h3.4l-1.06 6H2.77a.5.5 0 0 0-.5.41l-.17 1a.5.5 0 0 0 .5.59H6l-.6 3.41a.5.5 0 0 0 .49.59h.98a.5.5 0 0 0 .5-.41L8 17h6l-.6 3.41a.5.5 0 0 0 .49.59h.98a.5.5 0 0 0 .5-.41L16 17h3.58a.5.5 0 0 0 .5-.41l.17-1a.5.5 0 0 0-.5-.59h-3.4l.4-2.22h.02a4.9 4.9 0 0 0 4.9-4.89l-.02-.26v-.04a4.88 4.88 0 0 0-3.36-4.32.49.49 0 0 0-.42-.27h-1.1a4.9 4.9 0 0 0-4.8 4H9.75l.6-3.41A.5.5 0 0 0 9.88 3H8.9zm.52 6h2.6a4.9 4.9 0 0 0 2.8 3.37L14.35 15h-6l1.06-6z");
@@ -1913,4 +1908,3 @@ body:not(.powercord) .panels-3wFtMD::after {
 .bf-toolbar .format:active {
   background: var(--background-modifier-active) !important;
 }
-
